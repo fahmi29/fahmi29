@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahmi29
+- 👋 Hi, I’m Fahmi A
 - 👀 I’m interested in Web Developer in Frontend especially
 - 🌱 I’m currently learning ReactJS and NuxtJS
 - 💞️ I’m looking to collaborate on ...
