@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahmi A
 - 👀 I’m interested in Web Developer in Frontend especially
-- 🌱 I’m currently learning ReactJS and NuxtJS
+- 🌱 I’m currently learning ReactJS, VueJS and NuxtJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
