@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fahmi A
+- 👋 Hi, I’m Muhammad Fahmi Ardianto
 - 👀 I’m interested in Web Developer in Frontend especially
 - 🌱 I’m currently learning ReactJS, VueJS and NuxtJS
 - 💞️ I’m looking to collaborate on ...
